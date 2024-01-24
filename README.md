@@ -1,2 +1,2 @@
-# LLMs
-Learning language models to improve business performance.
+# LLM
+Putting language models into practice
